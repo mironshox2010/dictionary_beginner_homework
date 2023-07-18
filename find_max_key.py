@@ -5,5 +5,3 @@ def find_max_key(data: dict):
         data (dict): A dictionary of values
     Returns:
         int: The maximum key in the dictionary.
-    """
-    return 
